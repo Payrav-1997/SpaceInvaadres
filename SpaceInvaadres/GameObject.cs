@@ -8,5 +8,8 @@ namespace SpaceInvaadres
 {
    abstract class GameObject
     {
+        public GameObjectPalce GameObjectPalce { get; set; }
+        public char Figure { get; set; }
+        public GameObjectType GameObjectType { get; set; }
     }
 }

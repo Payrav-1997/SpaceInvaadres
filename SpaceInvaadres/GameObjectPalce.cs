@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace SpaceInvaadres
 {
-    enum  GameObjectType
+    class GameObjectPalce
     {
-        AllianShip = 1,
-        PlayerShip = 2,
-        PlayerShipMissile = 3,
-        GroundObject = 4,
-
+        public int XCoordinate { get; set; }
+        public int YCoordinate { get; set; }
     }
 }
