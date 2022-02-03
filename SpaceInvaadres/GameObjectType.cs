@@ -8,7 +8,7 @@ namespace SpaceInvaadres
 {
     enum  GameObjectType
     {
-        AllianShip = 1,
+        AllienShip = 1,
         PlayerShip = 2,
         PlayerShipMissile = 3,
         GroundObject = 4,

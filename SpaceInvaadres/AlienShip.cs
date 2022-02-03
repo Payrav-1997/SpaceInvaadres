@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SpaceInvaadres
 {
-    class AlianShip  : GameObject
+    class AlienShip  : GameObject
     {
 
     }
